@@ -1,7 +1,5 @@
 # The Basic Shape of Smartphone Lenses
 
-[Untitled Database](The%20Basic%20Shape%20of%20Smartphone%20Lenses%20aed2d9798c01419eaccb050365fb444e/Untitled%20Database%20f3acd1d10d934f438cac0e81079b35fc.csv)
-
 # Introduction
 
 Hello, I’m Mark and welcome back to Design Optics Fast, where we provide a 21st century approach to designing optical systems.
